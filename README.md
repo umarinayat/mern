@@ -1,1 +1,1 @@
-# mern
+# A Full Stack MERN App
